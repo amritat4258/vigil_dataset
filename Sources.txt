@@ -1,0 +1,22 @@
+VIGIL DATASET SOURCES
+
+1. Market trades (market_trades/)
+Source: Binance public data, data.binance.vision
+Path: spot / daily / aggTrades
+Coins: BTCUSDT, DOGEUSDT
+Dates: 25 Jan 2021 to 30 Jan 2021 
+License: Binance public data, check terms on data.binance.vision
+Notes: files are untouched, as downloaded
+
+2. Social messages (social_messages/)
+Source: Kaggle, "crypto-telegram-groups" by aagghh
+Link: https://www.kaggle.com/datasets/aagghh/crypto-telegram-groups
+Content: public Telegram exchange groups (Binance, Bittrex, Huobi, KuCoin, OKEx)
+Dates: 16 Nov 2020 to 30 Jan 2021
+License: [copy from the Kaggle page]
+File size: [size of the zip]
+Notes: file is untouched, as downloaded
+
+3. Not collected
+- Order book (L2) snapshots: [not found / found: describe]
+- Labeled 500-row set and ground truth cases: skipped, need manual labeling
